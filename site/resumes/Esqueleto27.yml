@@ -1,7 +1,7 @@
 basic_info:
-  first_name: Pablo Matheo
+  first_name: Pablo
   last_name: Flores Loor
-  motto: "Construyendo hoy las ideas que mañana cambiarán el mundo."
+  motto: "Construyendo hoy las ideas que cambiarán el mundo mañana."
   focus: "Build a startup"
   github: Esqueleto27
 
@@ -13,36 +13,31 @@ education:
 experiences:
   - role: Independent Developer
     company: Self-employed
-    description: Trabajando en proyectos personales y desarrollando habilidades en programación y desarrollo web.
+    description: Building personal programming projects and learning software development.
     year: 2026
 
 projects:
-  - name: Landing Page Website
-    description: Página web creada con HTML y CSS como parte del aprendizaje de desarrollo web.
-  - name: Simple JavaScript App
-    description: Aplicación básica utilizando JavaScript para practicar lógica de programación.
+  - name: HTML Landing Page
+    description: Simple landing page built with HTML and CSS.
+
+  - name: JavaScript Exercises
+    description: Small applications built to practice programming logic.
+
   - name: Responsive Website
-    description: Sitio web adaptable a diferentes dispositivos usando HTML, CSS y diseño responsive.
-  - name: Portfolio Projects
-    description: Colección de proyectos desarrollados durante el bootcamp de programación.
+    description: Responsive website created during the bootcamp.
 
 skills:
   - name: HTML
     percentage: 80
+
   - name: CSS
     percentage: 75
+
   - name: JavaScript
     percentage: 70
-  - name: Git & GitHub
-    percentage: 70
-  - name: Problem Solving
-    percentage: 85
-  - name: Startup Mindset
-    percentage: 80
-  - name: SaaS Development
+
+  - name: Git
     percentage: 65
 
-goals:
-  - Crear varias startups SaaS exitosas.
-  - Construir productos tecnológicos que ayuden a muchas personas.
-  - Convertirme en un desarrollador y emprendedor tecnológico.
+  - name: Problem Solving
+    percentage: 85
